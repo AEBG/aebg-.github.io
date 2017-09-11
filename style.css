@@ -8,7 +8,7 @@ div {
 	width: 99%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: #008000;
 	margin-bottom: 10px;
 }
 
@@ -56,9 +56,9 @@ a:hover {
 	position: relative;
 	float: left;
 	margin-top: 50px;
-	width: 9%;
+	width: 11%;
 	height: 900px;
-	background-color: #B9D7D9;
+	background-color: #696969;
 	margin-bottom: 10px;
 }
 
@@ -66,16 +66,16 @@ a:hover {
 	position: relative;
 	float: right;
 	margin-top: 50px;
-	width: 90%;
+	width: 88%;
 	height: 900px;
-	background-color: #F4EBC3;
+	background-color: #FFDAB9;
 	margin-bottom: 20px;
 }
 
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #668284;
+	background-color: #008000;
 	clear: both;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
